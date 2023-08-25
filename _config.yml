@@ -18,16 +18,59 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+title: Eena Kosik
+title_separator: '|'
+email: eena.kosik@gmail.com
+minimal_mistakes_skin: "contrast"
+locale: 'en-US'
+
+
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Write an awesome description for your new site here. You can edit this
+#   line in _config.yml. It will appear in your document head meta (for
+#   Google search results) and in your feed.xml site description.
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+# github_username:  jekyll
+
+
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/ekosik/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/eena_kosik"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/elkosik"
+    - label: "Scholar"
+      icon: "fa fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=LsgTxkEAAAAJ&hl=en&oi=ao"
+
+author:
+  name   : "Eena Lee Kosik"
+  avatar : "/assets/images/tokyo_2023.jpg"
+  bio    : >-
+    My name is Eena.
+
+    You can read more about me in the [About me](/about/) section.
+  twitter: "eena_kosik"
+  linkedin: "ekosik"
+  github: "elkosik"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:eena.kosik@gmail.com"
+    # - label: "Resume"
+    #   icon: "far fa-fw fa-file-pdf"
+    #   url: "/assets/files/resume-renato-golia.pdf"
+
+include:
+  - "_pages"
+
 
 # Build settings
 # theme: minimal-mistakes-jekyll
