@@ -18,23 +18,57 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+
 title: Eena Kosik
-title_separator: '|'
+name: Eena Kosik
 email: eena.kosik@gmail.com
-minimal_mistakes_skin: "contrast"
 locale: 'en-US'
+words_per_minute: 200
+
+# Search
+search: true
+lunr:
+  search_within_pages: true
+
+include:
+  - _pages
+  - assets
+
+# exlude:
+
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
+# Build Settings
+markdown: kramdown
+minimal_mistakes_skin: "contrast"
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-1234567-8"
+    anonymize_ip: false # default
 
 
-# description: >- # this means to ignore newlines until "baseurl:"
-#   Write an awesome description for your new site here. You can edit this
-#   line in _config.yml. It will appear in your document head meta (for
-#   Google search results) and in your feed.xml site description.
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username:  jekyll
+# Author Profile Settings
+author:
+  name   : "Eena Lee Kosik"
+  avatar : /assets/images/tokyo_2023.jpg
+  bio    : My name is Eena. You can read more about me in the [About me](/about/) section.
+  twitter: "eena_kosik"
+  linkedin: "ekosik"
+  github: "elkosik"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:eena.kosik@gmail.com"
 
 
+# Footer Settings
 footer:
   links:
     - label: "LinkedIn"
@@ -50,51 +84,43 @@ footer:
       icon: "fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=LsgTxkEAAAAJ&hl=en&oi=ao"
 
-author:
-  name   : "Eena Lee Kosik"
-  avatar : "/assets/images/tokyo_2023.jpg"
-  bio    : >-
-    My name is Eena.
-
-    You can read more about me in the [About me](/about/) section.
-  twitter: "eena_kosik"
-  linkedin: "ekosik"
-  github: "elkosik"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:eena.kosik@gmail.com"
-    # - label: "Resume"
-    #   icon: "far fa-fw fa-file-pdf"
-    #   url: "/assets/files/resume-renato-golia.pdf"
-
-include:
-  - "_pages"
 
 
-# Build settings
-# theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-plugins:
-  - jekyll-feed
-  - jekyll-include-cache
+# Defaults
+defaults:
+# all
+  - scope:
+      path: ""
+    values:
+      layout: splash
+      mathjax: true
+      author_profile: true
+      class: wide
+      title: " "
+      title_separator: "|" 
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: # true
+      share: true
+      related: true
+      sidebar:
+        nav: "docs"
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: splash
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true

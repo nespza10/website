@@ -1,6 +1,6 @@
 ---
-title: "projects"
-permalink: /projects/
+title: "publications"
+permalink: /pubs/
 layout: splash
 header:
     overlay_image: '/assets/images/coffee.jpg'
@@ -9,11 +9,5 @@ author_profile: true
 read_time: False
 ---
 
-Project 1:
-
-Project 2:
-
-
-
-
+Pubs:
 
