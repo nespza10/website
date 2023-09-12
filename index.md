@@ -24,7 +24,7 @@ feature_row:
 
 <span style="font-family:Avenir"> My graduate research is focused on interactions between the autonomic and central nervous systems. Basically, how do respiratory and cardiac rhythms influence the brain and cognition? </span>
 
-<span style="font-family:Avenir"> By using electrophysiological neural data of all kinds (EEG, intracranial EEG, Neuropixels, etc.) my goals are to carefully quantify these neural, respiratory, and cardiac rhythms to gain a fuller understanding of brain-body relationships. </span>
+<span style="font-family:Avenir"> By using electrophysiological neural data of all kinds (EEG, intracranial EEG, Neuropixels, etc.) my goal is to carefully quantify these neural, respiratory, and cardiac rhythms to gain a fuller understanding of brain-body relationships. </span>
 
 
 

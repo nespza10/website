@@ -176,22 +176,22 @@
   
 
 
-<div itemscope itemtype="https://schema.org/Person">
+<div itemscope itemtype="https://schema.org/Person" class="h-card">
 
   
     <div class="author__avatar">
-      
-        <img src="/assets/images/tokyo_2023.jpg" alt="Eena Lee Kosik" itemprop="image">
-      
+      <a href="http://localhost:4000/">
+        <img src="/assets/images/tokyo_2023.jpg" alt="Eena Lee Kosik" itemprop="image" class="u-photo">
+      </a>
     </div>
   
 
   <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="http://localhost:4000/" itemprop="url">Eena Lee Kosik</a>
+    </h3>
     
-      <h3 class="author__name" itemprop="name">Eena Lee Kosik</h3>
-    
-    
-      <div class="author__bio" itemprop="description">
+      <div class="author__bio p-note" itemprop="description">
         <p>My name is Eena. You can read more about me in the <a href="/about/">About me</a> section.</p>
 
       </div>
@@ -206,7 +206,7 @@
       
         
           
-            <li><a href="mailto:eena.kosik@gmail.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span></a></li>
+            <li><a href="mailto:eena.kosik@gmail.com" rel="nofollow noopener noreferrer me"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span></a></li>
           
         
       
@@ -219,7 +219,7 @@
 
       
         <li>
-          <a href="https://twitter.com/eena_kosik" itemprop="sameAs" rel="nofollow noopener noreferrer">
+          <a href="https://twitter.com/eena_kosik" itemprop="sameAs" rel="nofollow noopener noreferrer me">
             <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span>
           </a>
         </li>
@@ -229,7 +229,7 @@
 
       
         <li>
-          <a href="https://www.linkedin.com/in/ekosik" itemprop="sameAs" rel="nofollow noopener noreferrer">
+          <a href="https://www.linkedin.com/in/ekosik" itemprop="sameAs" rel="nofollow noopener noreferrer me">
             <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span>
           </a>
         </li>
@@ -245,7 +245,7 @@
 
       
         <li>
-          <a href="https://github.com/elkosik" itemprop="sameAs" rel="nofollow noopener noreferrer">
+          <a href="https://github.com/elkosik" itemprop="sameAs" rel="nofollow noopener noreferrer me">
             <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span>
           </a>
         </li>
@@ -279,7 +279,7 @@
 
       <!--
   <li>
-    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer me">
       <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
     </a>
   </li>
@@ -363,8 +363,7 @@
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2012-03-15T00:00:00-07:00">March 15, 2012</time></p>
-
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2012-03-15T00:00:00-07:00">March 15, 2012</time></p>
 
       </footer>
 
@@ -447,7 +446,7 @@
 
     
       <div class="search-content">
-        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
     <label class="sr-only" for="search">
       Enter your search term...
     </label>
