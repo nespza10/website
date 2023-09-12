@@ -28,7 +28,6 @@ feature_row_ecg:
 
 **Research Question** With more careful parameterization of the electrocardiogram (ECG) waveform, what can we learn about the relationship between the heart and cognition?
 
-- 
 
 {% include feature_row id="feature_row_ecg" type="center"%}
 
