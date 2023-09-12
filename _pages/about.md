@@ -12,7 +12,7 @@ feature_row:
 
   - image_path: /assets/images/beach_book.jpg
 
-  - image_path: /assets/images/post_run.jpg
+  - image_path: /assets/images/j_tree.jpg
 
 
 
