@@ -21,10 +21,6 @@ feature_row:
   <img src="/assets/images/yosemite_2021.jpg" alt="">
 </figure>
 
-
-
-## <strong> A lil' about me:</strong>
-
 - Born in <strong>Belmont</strong>, MA. Raised in <strong>Santa Barbara</strong>, CA.
 - Attended <strong>UC Berkeley</strong> (2013-2017), go bears! 🐻 
 - Lived in <strong>San Francisco</strong> for the next ~3 years working as a Clinical Research Coordinator at the [UCSF Memory and Aging Center](https://memory.ucsf.edu/). 
@@ -33,8 +29,7 @@ feature_row:
 - Now, living in San Diego has been a dream! I love running, camping, beach days, and all things outdoors in the sunshine.
 
                             
-                                        
-                                                 
-                       
-
+## Contact:                              
+If you'd like to get in touch with me, please email [eena.kosik@gmail.com](mailto:eena.kosik@gmail.com)                                      
+                    
 {% include feature_row %}
