@@ -13,7 +13,7 @@ You can also find this information at my
 [google scholar profile](https://scholar.google.com/citations?user=LsgTxkEAAAAJ&hl=en&oi=ao).
 
 
-## Under Review
+## In Press
 [Magnetic seizure therapy and electroconvulsive therapy increase aperiodic activity](https://doi.org/10.1101/2023.01.11.23284450). *Translational Psychiatry*.
 - Sydney E. Smith\*, <strong>Eena L. Kosik\*</strong>, Quirine van Engen\*, Aron T. Hill, Reza Zomorrodi, Daniel M. Blumberger, Zafiris J. Daskalakis, Itay Hadas, Bradley Voytek.
 

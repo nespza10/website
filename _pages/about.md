@@ -22,11 +22,15 @@ feature_row:
 </figure>
 
 - Born in <strong>Belmont</strong>, MA. Raised in <strong>Santa Barbara</strong>, CA.
+
 - Attended <strong>UC Berkeley</strong> (2013-2017), go bears! 🐻 
-- Lived in <strong>San Francisco</strong> for the next ~3 years working as a Clinical Research Coordinator at the [UCSF Memory and Aging Center](https://memory.ucsf.edu/). 
-  - SF will always have a special place in my heart. Reach out if you need dumpling recs or hidden gems of Golden Gate Park.
-- Moved to <strong>San Diego</strong> in the heart of the pandemic (summer 2020) to start graduate school at [UCSD](https://cogsci.ucsd.edu/graduates/phd-program/index.html).
-- Now, living in San Diego has been a dream! I love running, camping, beach days, and all things outdoors in the sunshine.
+  - My research experience began in undergrad when I completed an honor's thesis in [Dr. Robert Knight's](https://knightlab.neuro.berkeley.edu/) lab studying event-related potential responses in scalp and intracranial EEG during prediction paradigms.<br /><br />
+
+- Lived in <strong>San Francisco</strong> for the next 3 years working as a Clinical Research Coordinator at UCSF's [Memory and Aging Center](https://memory.ucsf.edu/) with [Dr. Virginia Sturm](https://canlab.ucsf.edu/). In this lab we were interested in measuring emotion dysfunction in neurodegenerative disease and neurodevelopmental disorders via autonomic signals, MRI, and coding facial expression. 
+  - SF will always have a special place in my heart. Reach out if you need dumpling recs or hidden gems of Golden Gate Park.<br /><br />
+
+- Moved to <strong>San Diego</strong> in the heart of the pandemic (summer 2020) to start graduate school at [UCSD](https://cogsci.ucsd.edu/graduates/phd-program/index.html) with [Dr. Bradley Voytek](https://cogsci.ucsd.edu/people/faculty/bradley-voytek.html).
+  - Living in San Diego has been a dream! I love running, camping, beach days, and all things outdoors in the sunshine.
 
                             
 ## Contact:                              
