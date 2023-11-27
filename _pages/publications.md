@@ -14,9 +14,6 @@ You can also find this information at my
 
 
 ## In Press
-[Magnetic seizure therapy and electroconvulsive therapy increase aperiodic activity](https://doi.org/10.1101/2023.01.11.23284450). *Translational Psychiatry*.
-- Sydney E. Smith\*, <strong>Eena L. Kosik\*</strong>, Quirine van Engen\*, Aron T. Hill, Reza Zomorrodi, Daniel M. Blumberger, Zafiris J. Daskalakis, Itay Hadas, Bradley Voytek.
-
 Recommendations for Structuring Undergraduate Research Programs Serving Historically Excluded and Marginalized Students in Neuroscience. *Nature Neuroscience*
 - Christian Cazares*, Maribel Patiño*, Minerva Contreras, Julia C. Gorman, Jillybeth Burgado, Sana A. Ali, Quirine van Engen, <strong>Eena L. Kosik</strong>, Pamela Riviere, Emily T. Baltz, Chimuanya K. Agba, Michael Preston, Nagarajan Akshay, Jianna Cressy, Natalie Paredes, Chiaki Santiago, Kevin L. White.
 
@@ -24,6 +21,11 @@ Recommendations for Structuring Undergraduate Research Programs Serving Historic
 ## Published Articles
 
 ### 2023:
+[Magnetic seizure therapy and electroconvulsive therapy increase aperiodic activity](https://www.nature.com/articles/s41398-023-02631-y). *Translational Psychiatry*.
+- Sydney E. Smith\*, <strong>Eena L. Kosik\*</strong>, Quirine van Engen\*, Aron T. Hill, Reza Zomorrodi, Daniel M. Blumberger, Zafiris J. Daskalakis, Itay Hadas, Bradley Voytek.
+
+<strong>*</strong>These authors contributed equally
+
 [Diminished baseline autonomic outflow in semantic dementiarelates to left-lateralized insula atrophy](https://doi.org/10.1016/j.nicl.2023.103522). *Neuroimage: Clinical*
 - Alice Y. Hua, Ashlin R. K. Roy, <strong>Eena L. Kosik</strong>, Nathaniel A. Morris, Tiffany E. Chow, Sladjana Lukic, Maxime Montembeault, Valentina Borghesani, Kyan Younes, Joel H. Kramer, William W. Seeley, David C. Perry, Zachary A. Miller, Howard J. Rosen, Bruce L. Miller, Katherine P. Rankin, Maria Luisa Gorno-Tempini, Virginia E. Sturm.
 
