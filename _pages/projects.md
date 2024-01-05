@@ -40,7 +40,7 @@ read_time: False
 
 <center> <img width="1000" src="/assets/images/lfp_spike_resp_shape.png"> </center>
 
-## What are the neural mechanisms of seizure-induced treatments for depression? ([preprint link](https://doi.org/10.1101/2023.01.11.23284450))
+## What are the neural mechanisms of seizure-induced treatments for depression? ([paper](../assets/pdf/Smith_Kosik_VanEngen_TransPsych_2023.pdf))
 - In collaboration with UCSD's Department of Psychiatry and the Toronto Centre for Addiction and Mental Health, we analyzed EEG data of patients with major depressive disorder (MDD) undergoing electroconvulsive therapy (ECT) or magnetic seizure therapy (MST).
 - Instead of relying on canonical bandpower analyses, we used [specparam/fooof](https://voyteklab.com/code) to isolate aperiodic from periodic neural activity.
 - We found an increase in aperiodic activity (steeper PSD slope, which has been linked to greater neural inhibition) suggestive of a potential shared neural mechanism of action across both treatments.
