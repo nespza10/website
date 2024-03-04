@@ -34,6 +34,6 @@ feature_row:
 
                             
 ## Contact:                              
-If you'd like to get in touch with me, please email [eena.kosik@gmail.com](mailto:eena.kosik@gmail.com)                                      
+If you'd like to get in touch with me, please email [eena.kosik (at) gmail (dot) com](mailto:eena.kosik@gmail.com)                                      
                     
 {% include feature_row %}
