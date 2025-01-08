@@ -12,7 +12,7 @@ header:
   type: "center"
 
 feature_row:
-  - image_path: /assets/images/eena_2025.jpg
+  - image_path: /assets/images/eena_2025.JPG
     alt: "Ryan Mountain, Joshua Tree"
     title: "welcome."
 
