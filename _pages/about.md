@@ -23,8 +23,8 @@ feature_row:
 
 - Born in <strong>Yokohama</strong>, Japan. Raised in <strong>Fairfax</strong>, CA.
 
-- Attended <strong>UC San Diego</strong> (2021-2025), go tritons!  
-  - My research experience began in undergrad when I completed an honor's thesis in [Dr. Robert Knight's](https://knightlab.neuro.berkeley.edu/) lab studying event-related potential responses in scalp and intracranial EEG during prediction paradigms.<br /><br />
+- Attending <strong>UC San Diego</strong> (Graduating Spring 2025), go tritons!  
+  - My research experience began in undergrad where I first worked as a research assistant and now currently am working on my honor's thesis in [Dr. Gedeon Deak's](https://cogdevlab.ucsd.edu/home) lab studying maternal cues and their ability to elicit<strong>Joint Attention</strong>.<br /><br />
 
 - Lived in <strong>San Francisco</strong> for the next 3 years working as a Clinical Research Coordinator at UCSF's [Memory and Aging Center](https://memory.ucsf.edu/) with [Dr. Virginia Sturm](https://canlab.ucsf.edu/). In this lab we were interested in measuring emotion dysfunction in neurodegenerative disease and neurodevelopmental disorders via autonomic signals, MRI, and coding facial expression. 
   - SF will always have a special place in my heart. Reach out if you need dumpling recs or hidden gems of Golden Gate Park.<br /><br />
