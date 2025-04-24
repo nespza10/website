@@ -21,16 +21,13 @@ feature_row:
   <img src="/assets/images/yosemite_2021.jpg" alt="">
 </figure>
 
-- Born in <strong>Yokohama</strong>, Japan. Raised in <strong>Fairfax</strong>, CA.
+I am currently an undergraduate student at <strong>UC San Diego</strong>, graduating class of 2025 (go tritons! 🔱). I was born in <strong>Japan</strong>, raised in <strong>Fairfax</strong>, CA, and ventured down to sunny San Digo for my undergraduate studies and coffee/tea reviews I like to post in 2021.
 
-- Attending <strong>UC San Diego</strong> (Graduating Spring 2025), go tritons!  
-  - My research experience began in undergrad where I first worked as a research assistant and now currently am working on my honor's thesis in [Dr. Gedeon Deak's](https://cogdevlab.ucsd.edu/home) lab studying maternal cues and their ability to elicit<strong>Joint Attention</strong>.<br /><br />
+My research experience began in undergrad where I first worked as a research assistant and now currently am working on my honor's thesis in [Dr. Gedeon Deak's](https://cogdevlab.ucsd.edu/home) lab studying maternal cues and their ability to elicit <strong>Joint Attention</strong>.<br /><br />
 
-- Lived in <strong>San Francisco</strong> for the next 3 years working as a Clinical Research Coordinator at UCSF's [Memory and Aging Center](https://memory.ucsf.edu/) with [Dr. Virginia Sturm](https://canlab.ucsf.edu/). In this lab we were interested in measuring emotion dysfunction in neurodegenerative disease and neurodevelopmental disorders via autonomic signals, MRI, and coding facial expression. 
-  - SF will always have a special place in my heart. Reach out if you need dumpling recs or hidden gems of Golden Gate Park.<br /><br />
+I am majoring in Cognitive Science with a Neuroscience specialization where I studied the biological, cognitive and behavioral implications of neuroscience, as well as the varying applications of neuroscience on AI, medicine, therapy, and much more. Due to my intersts in neuroscience and data science, I hope to further my studies by combining both both fields (such as in neuro/bioinformatics or data analysis in a neurology context.
 
-- Moved to <strong>San Diego</strong> in the heart of the pandemic (summer 2020) to start graduate school at [UCSD](https://cogsci.ucsd.edu/graduates/phd-program/index.html) with [Dr. Bradley Voytek](https://cogsci.ucsd.edu/people/faculty/bradley-voytek.html).
-  - Living in San Diego has been a dream! I love running, camping, beach days, and all things outdoors in the sunshine.
+Some of my hobbies include surfing, swimming, art, traveling, and posting coffee/tea reviews! (definitely reach out if you need any suggestions for places to get coffee/tea in San Diego ☕️)
 
                             
 ## Contact:                              
