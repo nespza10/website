@@ -23,7 +23,7 @@ feature_row:
 
 I am currently an undergraduate student at <strong>UC San Diego</strong>, graduating class of 2025 (go tritons! 🔱). I was born in <strong>Japan</strong>, raised in <strong>Fairfax</strong>, CA, and ventured down to sunny San Digo for my undergraduate studies in 2021.
 
-My research experience began in undergrad where I first worked as a research assistant and now currently am working on my honor's thesis in [Dr. Gedeon Deak's](https://cogdevlab.ucsd.edu/home) lab studying maternal cues and their ability to elicit <strong>Joint Attention</strong>.<br /><br />
+My research experience began in undergrad where I first worked as a research assistant and now currently am working on my honor's thesis in [Dr. Gedeon Deak's](https://cogdevlab.ucsd.edu/home) lab studying maternal cues and their ability to elicit <strong>Joint Attention</strong>.
 
 I am majoring in Cognitive Science with a Neuroscience specialization where I studied the biological, cognitive and behavioral implications of neuroscience, as well as the varying applications of neuroscience on AI, medicine, therapy, and much more. Due to my intersts in neuroscience and data science, I hope to further my studies by combining both both fields (such as in neuro/bioinformatics or data analysis in a neurology context.
 
